@@ -1,0 +1,11 @@
+alias os='open -a sublime\ text'
+alias rs='rails s'
+alias rr='rake routes'
+alias rs4='rails s -p 4000'
+alias rs5='rails s -p 5000'
+alias cdp='cd ~/Desktop/projects'
+alias cdp='cd ~/projects'
+alias oc='open -a "/Applications/Google Chrome.app" '
+alias pushmaster='git push origin master'
+alias J='| jq .
+source ~/.git-completion.bash'
